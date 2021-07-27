@@ -1,2 +1,3 @@
-# INIT
+ INIT
 - by Zedd
+- Tris Edit 
