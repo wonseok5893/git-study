@@ -1,1 +1,2 @@
 hi a.txt
+hi b.txt
